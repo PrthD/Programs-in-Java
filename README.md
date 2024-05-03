@@ -17,3 +17,4 @@ The project is structured as follows:
 
 - `src`: Contains all Java source files organized into modules for each feature.
 - All the pdf files included contains the specifics of that program
+- All text files included contains some intital data for the program
